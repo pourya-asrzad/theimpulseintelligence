@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  emc-prod:
+    container_name: emc-prod
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    restart: always
+    ports:
+      - '1337:80'
+    environment:
+      - NEXT_PUBLIC_ENV_CUSTOM=production

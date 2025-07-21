@@ -1,0 +1,159 @@
+{
+  "appName": "Impulse Intelligence",
+  "start" : "Get Started",
+  "intro" :"Using Flan, you will have complete and safe access to the world of artificial intelligence.",
+  "logo" : "logo",
+  "about" : "About us",
+  "contact" : "Contact",
+  "dashboard" : "Dashboard",
+  "pricing" : "Pricing",
+  "sign_up" : "Sign up",
+  "login" : "login",
+  "Edward Xun" :{
+    "userName" : "Edward Xun",
+    "comment":"Flan AI  simplifies our content production process and saves our time and resources. Using artificial intelligence, we can create high-quality content quickly and efficiently, helping us build a strong online presence and increase engagement with our audience.",
+    "loacation":"Content Manager, USA"
+  },"Alex Warren":{
+    "userName" : "Alex Warren",
+    "comment":" Flan AI  has simplified my entire marketing workflow from content creation to campaign planning. I no longer have to juggle multiple tools and platforms - everything I need is here in one place. The time and energy I have saved can now be directed towards growing my business.",
+    "loacation":"Director of Digital Marketing, USA"
+  },
+  "Robert G":{
+    "userName":"Robert G",
+    "comment": "Flan AI  simplifies our social media marketing efforts and allows us to create high-quality content quickly and efficiently. This has resulted in increased engagement and brand awareness, ultimately driving more traffic and sales to our business.",
+    "loacation":"Social Media Manager, Canada"
+  },
+
+  "Emily Lopez":{
+  "userName":"Emily Lopez",
+  "comment": 
+  "The affordability and ease of use of this platform surprised me. It's like having a full-fledged marketing team at a fraction of the cost. Thanks to the intuitive tools provided, my content creation process has never been smoother.",
+  "loacation":"Content Manager, Canada"
+},
+
+  "Tom H":{
+    "userName":"Tom H",
+    "comment":"Flan AI  enables us to have a consistent online presence without the need for a dedicated marketing team. Its artificial intelligence tools help us stay competitive in the digital space."
+    ,"loacation":"Marketing Manager, UK"
+  },
+  "Lori Blair":{
+    "userName":"Lori Blair",
+    "comment":"Flan AI not only helped me save time and resources, but also allowed me to achieve better results than before.",
+    "loacation":"Australian online store"
+  },
+  "Ai_Tools":"AI Tools",
+  "faq_title":"Frequently Asked Questions",
+  "faq1":{
+    "title":"What languages ​​does it support?",
+    "answer":"It supports more than 20 languages ​​including English, German, French, Italian, Spanish, Russian, Arabic, Hindi, Tamil, Chinese, Japanese, Korean, Dutch, Danish, Finnish, Norwegian, Romanian, Turkish, Indonesian and It is Scottish."
+  },
+  "faq2":{
+    "title":"Can I change my plan at any time?",
+    "answer":"Yes, you can upgrade or downgrade your plan at any time."
+  },
+  "faq3":{
+    "title":"What payment methods are accepted ?",
+    "answer":"We supports all major credit cards and debit cards. Your payment method is secured by Stripe for your privacy and security."
+  },
+  "faq4":{
+    "title":"When will I be build?",
+    "answer":"You will be billed at the start of your subscription."
+  },
+"sign_in_title" : "Sign in to folan AI",
+"sign_in_google" : "Sign in with Google",
+"sign_in_email" : "or sign in with email",
+"login_username_email":"Username or Email",
+"login_password":"Password",
+"login_forgot":"Forgot?",
+"sign_in":"Sign In",
+"login_sign_up":"Don't have an account? ",
+  "to" : "to",
+  "with" :"with",
+  "continue with Email" : "Continue with Email",
+  "Name":"Frist Name",
+  "UserName" : "UserName",
+  "Email":"Email",
+  "Password" : "Password",
+  "Create Account" :"Create Account",
+  "checkBox" : "I agree with Rasp Terms of Service, Privacy Policy, and default Notification Settings",
+  "required" : "required",
+  "passwordError" : "String must contain at least 8 character(s)",
+  "emailError"  : "Invalid email",
+  "or":"or",
+  "welcome":"Welcome",
+  "use_chatGPT" : "Use ChatGPT",
+  "imagine" : "Imagine",
+  "language" : "English",
+  "upgrade_plan" : "Upgrade Plan",
+  "setting" : "Setting",
+  "support" : "Support",
+  "logout" : "Log Out",
+  "account" : "Account",
+  "Terms and Condition":"Terms and Condition",
+  "Privacy Policy" : "Privacy Policy",
+  "monthly": "Monthly",
+  "yearly":"Yearly",
+  "Free Trial":"Free Trial",
+  "Basic Plan":"Basic Plan",
+  "Pro Plan":"Pro Plan",
+  "Agency Plans":"Agency Plans",
+  "Free_package":"Test our platform at no cost-No credit card required!",
+  "Basic_package":"Enhanced with AI capabilities for superior results tailored to your needs.",
+  "Pro_package":"Access professional-grade design and copywriting AI Models.",
+  "Agency_package":"It's like having an expert team of designers and copywriters.",
+  "Benefit_F1":"4000 words/month",
+  "Benefit_F2":"5 AI images/month",
+  "Benefit_F3":"Access to DALLE 3",
+  "Benefit_F4":"Access to Social Media Studio",
+  "Benefit_F5":"Access to Content Studio",
+  "Benefit_F6":"No Credit Card Required",
+  "Benefit_B1":"15000 words/month",
+  "Benefit_B2":"25 AI images/month",
+  "Benefit_B3":"Access to DALLE 3",
+  "Benefit_B4":"Access to Social Media Studio",
+  "Benefit_B5":"Access to Content Studio",
+  "Benefit_B6":"Access to Design Studio",
+  "Benefit_B7":"+10 languages",
+  "Benefit_P1":"30,000 GPT-4 words/month",
+  "Benefit_P2":"60 AI images/month",
+  "Benefit_P3":"Access to DALLE 3",
+  "Benefit_P4":"Access to Midjourney",
+  "Benefit_P5":"Access to Copilot AI Model",
+  "Benefit_P6":"Full Access to Social Media Studio",
+  "Benefit_P7":"Full Access to Content Studio",
+  "Benefit_P8":"Full Access to Design Studio",
+  "Benefit_P9":"FullAccess To Campaign Studio",
+  "Benefit_P10":"+15 Languages",
+  "Benefit_A1":"Unlimited GPT-4 words/month",
+  "Benefit_A2":"500 AI images/month",
+  "Benefit_A3":"Access to Gemini (Google AI)",
+  "Benefit_A4":"+30 Languages",
+  "Help":"How Can I Help You Today?",
+  "subject_1":"tech’s impact on school",
+  "explain_1":"how technology shapes learning",
+  "subject_2":"Write a spreadsheet",
+  "subject_3":"Plan an itinerary",
+  "explain_3":"for a literary tour of England, visiting famous ",
+  "subject_4":"Suggest fun activities",
+  "explain_4":"for a family of 4 to do indoors on a rainy day",
+  "msg":"message chatGPT...",
+  "lastName" :"Last Name",
+  "confirmPassword" : "Confirm Password",
+  "phoneNumber" : "Phone Number",
+  "invalid Number" : "invalid Number",
+  "confrimPasswordErr" : "Passwords don't match"
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+}

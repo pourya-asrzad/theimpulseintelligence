@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+  sample:
+    container_name: emc
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+      - '/app/node_modules'
+    ports:
+      - 3001:3000
+    environment:
+      - NEXT_PUBLIC_ENV_CUSTOM=development
+      - CHOKIDAR_USEPOLLING=true
