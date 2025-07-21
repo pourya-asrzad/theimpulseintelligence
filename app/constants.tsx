@@ -3,13 +3,12 @@ import {AppRoutes} from '@/config/Routes';
 export const appSlogan = {
   fa: (
     <>
-      با استفاده از فلان به دنیای <span className="gradient-text">هوش مصنوعی </span> دسترسی کامل و امن داشته باشید.
+      ما ایده‌ها را به واقعیت‌های <span className="gradient-text"> قدرتمند </span> تبدیل می‌کنیم
     </>
   ),
   en: (
     <>
-      Using Flan, you will have complete and safe access to the world of
-      <span className="gradient-text"> Artificial Intelligence</span> .
+      We shape ideas into <span className="gradient-text"> powerful </span>realities
     </>
   ),
 };
