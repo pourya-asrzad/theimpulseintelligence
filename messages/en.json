@@ -3,6 +3,7 @@
   "start" : "Get Started",
   "intro" :"We shape ideas into powerful realities",
   "logo" : "logo",
+  "home" : "Home",
   "about" : "About us",
   "contact" : "Contact",
   "dashboard" : "Dashboard",
@@ -10,9 +11,9 @@
   "sign_up" : "Sign up",
   "login" : "login",
   "Edward Xun" :{
-    "userName" : "Edward Xun",
+    "userName" : "Arman Kangavari",
     "comment":"Flan AI  simplifies our content production process and saves our time and resources. Using artificial intelligence, we can create high-quality content quickly and efficiently, helping us build a strong online presence and increase engagement with our audience.",
-    "loacation":"Content Manager, USA"
+    "loacation":"God, Iran"
   },"Alex Warren":{
     "userName" : "Alex Warren",
     "comment":" Flan AI  has simplified my entire marketing workflow from content creation to campaign planning. I no longer have to juggle multiple tools and platforms - everything I need is here in one place. The time and energy I have saved can now be directed towards growing my business.",

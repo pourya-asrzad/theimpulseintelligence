@@ -31,6 +31,12 @@ export default function Header() {
 
       <NavbarContent className="hidden gap-6 sm:flex" justify="center">
         <NavbarItem>
+          <Link color="foreground" href={'/'} className="duration-800 group transition">
+            {t('home')}
+            <span className="duration-800 absolute bottom-0 block h-[.05rem] w-0 bg-[#0070ef] transition-all group-hover:w-full"></span>
+          </Link>
+        </NavbarItem>
+        <NavbarItem>
           <Link color="foreground" href={AppRoutes.ABOUT} className="duration-800 group transition">
             {t('about')}
             <span className="duration-800 absolute bottom-0 block h-[.05rem] w-0 bg-[#0070ef] transition-all group-hover:w-full"></span>
@@ -42,19 +48,18 @@ export default function Header() {
             <span className="duration-800 absolute bottom-0 block h-[.05rem] w-0 bg-[#0070ef] transition-all group-hover:w-full"></span>
           </Link>
         </NavbarItem>
-        <NavbarItem>
+        {/* <NavbarItem>
           <Link color="foreground" href={AppRoutes.DASHBOARD} className="duration-800 group transition">
             {t('dashboard')}
             <span className="duration-800 absolute bottom-0 block h-[.05rem] w-0 bg-[#0070ef] transition-all group-hover:w-full"></span>
           </Link>
-        </NavbarItem>
-        <NavbarItem>
-         
+        </NavbarItem> */}
+        {/* <NavbarItem>
           <Link color="foreground" href={AppRoutes.PRICING} className="duration-800 group transition">
             {t('pricing')}
             <span className="duration-800 primary absolute bottom-0 block h-[.05rem] w-0 bg-[#0070ef] transition-all group-hover:w-full"></span>
           </Link>
-        </NavbarItem>
+        </NavbarItem> */}
       </NavbarContent>
       <NavbarContent justify="end">
         <NavbarItem className="hidden lg:flex">
@@ -83,8 +88,7 @@ export default function Header() {
           </Link>
         </NavbarItem>
         <NavbarItem>
-       
-          <Link className="w-full" size="lg" color="foreground"href={AppRoutes.PRICING}>
+          <Link className="w-full" size="lg" color="foreground" href={AppRoutes.PRICING}>
             {t('pricing')}
           </Link>
         </NavbarItem>

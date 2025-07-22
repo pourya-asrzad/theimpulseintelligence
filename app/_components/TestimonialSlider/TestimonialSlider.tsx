@@ -71,8 +71,7 @@ function TestimonialSlider() {
       userName: t('Edward Xun.userName'),
       location: t('Edward Xun.loacation'),
       comment: t('Edward Xun.comment'),
-      image:
-        'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?dpr=2&h=200&w=120&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fGZhY2V8ZW58MHx8fHwxNzExODE1NjA2fDA&ixlib=rb-4.0.3',
+      image: '/pictures/arman-min.jpg',
     },
     {
       uniqueId: 2,

@@ -15,22 +15,51 @@ export const appSlogan = {
 
 export const about = {
   fa: (
-    <>
-      اساس کار تیم ما با کشف محدودیت هایی که در زمینه تکنولوژی های هوش مصنوعی وجود داشت تشکیل شد . محدودیت هایی همچون
-      استفاده از چت جی پی تی4 برای کاربرانی که به آن دسترسی ندارند یا فرآیند استفاده از این سیستم ها برایشان دشوار است .
-      همچنین بسیار پیش می‌آید که کاربران ارتباط درستی با هوش مصنوعی برقرار نمی کنند و اغلب در نحوه درست سوال پرسیدن و
-      دریافت اطلاعات مشکل دارند . تیم ما با کشف این محدودیت ها جهت رفع آن‌ها قدم در عرصه هوش مصنوعی گذاشت .
-    </>
+    <div>
+      <div className="mt-4 flex flex-col items-start gap-4">
+        <h3 className="mb-2 text-xl font-bold">هدف ما</h3>
+        <p className="text-right text-gray-700">
+          هدف ما برگرفته از دو کلمه Impuluse و Intelligene است . Impulse مثل چیزی که در لحظه به فکر شما می اید و مانند
+          یک الهام است . مثل یک حرکت غیر عادی که می کنید و شاید بنظر خودتان یا دیگران خلاقانه باشد ، اما به خودی خود خام
+          است Intelligence : به معنای هوشمندی ، خر د ورزی و بهرگیری از دانش ما با بهره گیری از این دو کلمه در واقع می
+          خواهیم هر آنچیزی که برای تولید و خلق کردن به ما الهام یا در ذهنمان می آید با استفاده از خرد و دانش و هوشمندی
+          نرکیب کنیم تا در نهایت یک محصول تولید هوشمند .
+        </p>
+      </div>
+
+      <div className="mt-4 flex flex-col items-start gap-4">
+        <h3 className="mb-2 text-xl font-bold">دورنما</h3>
+        <p className="text-right text-gray-700">
+          دورنمای ما ایجاد جهانی است که در آن هر ایده، حتی اگر خام یا غیرمتعارف باشد، بتواند از طریق کاربرد هوشمندانه
+          دانش و خلاقیت به واقعیتی قدرتمند تبدیل شود. ما تلاش می‌کنیم تا افراد و تیم‌ها را توانمند سازیم تا الهامات و
+          بینش‌های خود را به راه‌حل‌های نوآورانه تبدیل کنند که تأثیر معناداری بر جامعه بگذارد.
+        </p>
+      </div>
+    </div>
   ),
   en: (
-    <>
-      The basis of our team work was formed by discovering the limitations that existed in the field of artificial
-      intelligence technologies. Limitations such as Using GPT4 chat is difficult for users who do not have access to it
-      or the process of using these systems. Also, it often happens that users do not establish a proper relationship
-      with artificial intelligence and often do not know how to ask questions correctly They have problems receiving
-      information. By discovering these limitations, our team stepped into the field of artificial intelligence to solve
-      them.
-    </>
+    <div>
+      <div className="mt-4 flex flex-col  gap-4">
+        <h3 className="mb-2 text-xl font-bold"> Our Goals </h3>
+        <p className=" text-gray-700">
+          Our goal is derived from two words Impulse and Intelligence. Impulse is like something that comes to your mind
+          in the moment, like an inspiration. It's like an unusual action you take that may seem creative to you or
+          others, but in itself, it is raw. Intelligence: meaning wisdom, cleverness, and utilizing knowledge. By
+          leveraging these two words, we aim to combine everything that inspires us or comes to our minds for production
+          and creation with wisdom and knowledge to ultimately produce a smart product.
+        </p>
+      </div>
+
+      <div className="mt-6 flex flex-col  gap-4">
+        <h3 className="mb-2 text-xl font-bold">Our Vision</h3>
+        <p className=" text-gray-700">
+          Our vision is to create a world where every idea, no matter how raw or unconventional, can be transformed into
+          a powerful reality through the intelligent application of knowledge and creativity. We strive to empower
+          individuals and teams to harness their inspirations and insights, turning them into innovative solutions that
+          make a meaningful impact on society.
+        </p>
+      </div>
+    </div>
   ),
 };
 export const askSignIn = {

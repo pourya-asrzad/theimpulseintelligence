@@ -25,7 +25,7 @@ export default function LocaleLayout({children, params: {locale}}: ILayoutProps)
 
   const isValidLocale = locales.some((cur) => cur === locale); // Проверка на валидность локали
   if (!isValidLocale) notFound(); // Если локаль не валидна, отобразить страницу 404 Not Found
-
+  console.log(cu, 'Current locale');
   return (
     <html dir={cu === 'fa' ? 'rtl' : 'ltr'} lang={cu || 'fa'}>
       <body className={twMerge(vazir.className)}>

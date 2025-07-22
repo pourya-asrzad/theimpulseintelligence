@@ -10,9 +10,6 @@ const IntroSection = () => {
   const t = useTranslations();
   return (
     <section className="flex w-full flex-col items-center gap-8 p-3">
-      <Button className="mt-10 flex min-w-[12rem] items-center justify-center rounded-2xl bg-black p-7 text-white sm:w-[18%] sm:text-[1.2rem] xl:text-[1.4rem] ">
-        {t('start')}
-      </Button>
       <div className="mt-2 flex w-full max-w-[30rem] flex-col items-center justify-center gap-4  md:w-[100%] md:max-w-[100%] ">
         <div className="text-[2rem] font-bold">{t('Ai_Tools')}</div>
         <div className="flex w-full flex-wrap items-center justify-center gap-x-4 gap-y-8 md:max-w-[70rem] md:justify-around">
