@@ -1,0 +1,7 @@
+{
+    "platform": "node",
+    "app": "kind-banzai-zerkek3dk",
+    "node": {
+        "version": "20"
+      }
+}
