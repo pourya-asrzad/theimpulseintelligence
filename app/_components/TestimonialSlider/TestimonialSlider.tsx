@@ -68,51 +68,32 @@ function TestimonialSlider() {
   const testimonial = [
     {
       uniqueId: 1,
-      userName: t('Edward Xun.userName'),
-      location: t('Edward Xun.loacation'),
-      comment: t('Edward Xun.comment'),
+      userName: t('ArmanKangavari.userName'),
+      location: t('ArmanKangavari.loacation'),
+      comment: t('ArmanKangavari.comment'),
       image: '/pictures/arman-min.jpg',
     },
     {
       uniqueId: 2,
-      userName: t('Alex Warren.userName'),
-      location: t('Alex Warren.loacation'),
-      comment: t('Alex Warren.comment'),
-      image:
-        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFjZXxlbnwwfHwwfHx8MA%3D%3D',
-    },
+      userName: t('PouryaAsrzad.userName'),
+      location: t('PouryaAsrzad.loacation'),
+      comment: t('PouryaAsrzad.comment'),
+      image:"/pictures/IMG-20250724-WA0032.jpg"},
     {
       uniqueId: 3,
-      userName: t('Robert G.userName'),
-      location: t('Robert G.loacation'),
-      comment: t('Robert G.comment'),
-      image:
-        'https://media.istockphoto.com/id/1335941248/photo/shot-of-a-handsome-young-man-standing-against-a-grey-background.webp?b=1&s=170667a&w=0&k=20&c=Dl9uxPY_Xn159JiazEj0bknMkLxFdY7f4tK1GtOGmis=',
+      userName: t('MobinaKarimi.userName'),
+      location: t('MobinaKarimi.loacation'),
+      comment: t('MobinaKarimi.comment'),
+      image:"/pictures/mobinakarimi.jpg"
+    ,
     },
     {
       uniqueId: 4,
-      userName: t('Emily Lopez.userName'),
-      location: t('Emily Lopez.loacation'),
-      comment: t('Emily Lopez.comment'),
-      image:
-        'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZhY2V8ZW58MHx8MHx8fDA%3D',
-    },
-    {
-      uniqueId: 5,
-      userName: t('Tom H.userName'),
-      location: t('Tom H.loacation'),
-      comment: t('Tom H.comment'),
-      image:
-        'https://images.unsplash.com/photo-1611608822650-925c227ef4d2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFjZSUyMG1hbnxlbnwwfHwwfHx8MA%3D%3D',
-    },
-    {
-      uniqueId: 6,
-      userName: t('Lori Blair.userName'),
-      location: t('Lori Blair.loacation'),
-      comment: t('Lori Blair.comment'),
-      image:
-        'https://media.istockphoto.com/id/1460896518/photo/beautiful-middle-aged-woman.webp?b=1&s=170667a&w=0&k=20&c=UpEZVDcU8J30F3OgX-ysOCpZCvRkg83syWBzO5nnea8=',
-    },
+      userName: t('HamedEslamie.userName'),
+      location: t('HamedEslamie.loacation'),
+      comment: t('HamedEslamie.comment'),
+      image:''
+    }
   ];
 
   return (

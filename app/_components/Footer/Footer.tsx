@@ -21,11 +21,11 @@ const Footer = () => {
           <div className="">
             <ul className="flex gap-4 lg:gap-10">
               <li>
-                <Icon icon={'pajamas:linkedin'} className="cursor-pointer text-[1.3rem] sm:text-[1.9rem]" />
-              </li>
+               <a href='https://www.linkedin.com/company/impulseintelligence/about/?viewAsMember=true'> <Icon  icon={'pajamas:linkedin'} className="cursor-pointer text-[1.3rem] sm:text-[1.9rem]" />
+             </a> </li>
               <li>
-                <Icon icon={'bi:twitter'} className="cursor-pointer text-[1.3rem] sm:text-[1.9rem]" />
-              </li>
+               <a href='https://x.com/ImpulseInt3419'> <Icon icon={'bi:twitter'} className="cursor-pointer text-[1.3rem] sm:text-[1.9rem]" />
+              </a></li>
               <li>
                 <Icon icon={'fe:instagram'} className="cursor-pointer text-[1.3rem] sm:text-[1.9rem]" />
               </li>

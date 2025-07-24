@@ -10,37 +10,28 @@
   "pricing" : "Pricing",
   "sign_up" : "Sign up",
   "login" : "login",
-  "Edward Xun" :{
-    "userName" : "Arman Kangavari",
-    "comment":"Flan AI  simplifies our content production process and saves our time and resources. Using artificial intelligence, we can create high-quality content quickly and efficiently, helping us build a strong online presence and increase engagement with our audience.",
-    "loacation":"God, Iran"
-  },"Alex Warren":{
-    "userName" : "Alex Warren",
-    "comment":" Flan AI  has simplified my entire marketing workflow from content creation to campaign planning. I no longer have to juggle multiple tools and platforms - everything I need is here in one place. The time and energy I have saved can now be directed towards growing my business.",
-    "loacation":"Director of Digital Marketing, USA"
+  "MobinaKarimi":{
+    "userName" : "Mobina Karimi",
+    "comment":"My main goal is to work professionally in the field of content creation and creativity. I am passionate about organizing and conducting artistic and cultural events, and I have been active in this area for several years.",
+    "loacation":"Profesional Content Writer/Photographer/Event manager - Iran "
   },
-  "Robert G":{
-    "userName":"Robert G",
-    "comment": "Flan AI  simplifies our social media marketing efforts and allows us to create high-quality content quickly and efficiently. This has resulted in increased engagement and brand awareness, ultimately driving more traffic and sales to our business.",
-    "loacation":"Social Media Manager, Canada"
+  "ArmanKangavari":{
+    "userName":"Arman Kangavari",
+    "comment": "I have been professionally engaged in content writing, creative ideation, and artistic production. Alongside my passion for science and technology, which sparks an intense excitement in me, I felt a strong motivation to take my work into the digital space and leverage the internet as a medium for international interaction and humanitarian efforts through the tools of culture and art. This idea had been with me for several years, and now, with our friendly team, it has stepped into a new, challenging, larger, and more visionary path.",
+    "loacation":"Artistic director/ProjectManaging/Event manager - Iran "
   },
 
-  "Emily Lopez":{
-  "userName":"Emily Lopez",
+  "PouryaAsrzad":{
+  "userName":"PouryaAsrzad",
   "comment": 
   "The affordability and ease of use of this platform surprised me. It's like having a full-fledged marketing team at a fraction of the cost. Thanks to the intuitive tools provided, my content creation process has never been smoother.",
   "loacation":"Content Manager, Canada"
 },
 
-  "Tom H":{
-    "userName":"Tom H",
+  "HamedEslamie":{
+    "userName":"Hamed Eslamie",
     "comment":"Flan AI  enables us to have a consistent online presence without the need for a dedicated marketing team. Its artificial intelligence tools help us stay competitive in the digital space."
     ,"loacation":"Marketing Manager, UK"
-  },
-  "Lori Blair":{
-    "userName":"Lori Blair",
-    "comment":"Flan AI not only helped me save time and resources, but also allowed me to achieve better results than before.",
-    "loacation":"Australian online store"
   },
   "Ai_Tools":"AI Tools",
   "faq_title":"Frequently Asked Questions",
